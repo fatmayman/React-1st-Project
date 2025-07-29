@@ -1,0 +1,36 @@
+.main {
+  position: relative;
+  padding: 30px 20px;
+  background-color: #282D35;
+  border-radius: 0 0 8px 8px ;
+  overflow: hidden;
+  height: 83.5%;}
+
+.main-title {
+  margin-bottom: 26px;
+  margin-left: 15px;
+  margin-top: 50px;
+  font-size: 36px;
+  color: white; 
+}
+
+.facts-list {
+  padding-left: 20px;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 1.8;
+  margin-left: 30px;
+}
+
+ul li::marker {
+  color: #61dafb;
+  font-size: 24px;
+}
+
+.main-image {
+  position: absolute;
+  right: 0;
+  top: 90px;
+  width: 150px;
+  opacity: 0.8;
+}
