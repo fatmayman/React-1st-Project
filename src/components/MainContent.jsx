@@ -4,7 +4,7 @@ export function MainContent() {
   return (
     <main className="main">
       <h1 className="main-title">Fun facts about React</h1>
-      <img src="Group.svg" className="main-image" alt="React background" />
+      <img src="/group.svg" className="main-image" alt="react background" />
       <ul className="facts-list">
         <li>Was first released in 2013</li>
         <li>Was originally created by Jordan Walke</li>
